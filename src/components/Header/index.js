@@ -44,7 +44,7 @@ const Header = props => {
               type="button"
               className="logout-button-sm"
               onClick={onClickLogout}
-              label="none"
+              label
             >
               <FiLogOut className="logout-icon-sm" />
             </button>
